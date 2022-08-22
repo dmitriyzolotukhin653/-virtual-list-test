@@ -1,0 +1,7 @@
+.item-wrapper {
+  box-shadow: 1px 1px 1px 1px black;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
